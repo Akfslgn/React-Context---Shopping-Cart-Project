@@ -1,0 +1,61 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Samsung S25 Ultra",
+      "description": "Samsung Galaxy S25 Ultra is the latest flagship smartphone from Samsung. It features a 6.8-inch Super AMOLED display with a resolution of 2400x1080 pixels, and a refresh rate of 120Hz.",
+      "price": 549,
+      "thumbnail": "https://images.samsung.com/levant/smartphones/galaxy-s25-ultra/buy/kv_global_PC_v2.jpg",
+      "quantity": 1
+    },
+    {
+      "id": 2,
+      "title": "iPhone 16 Pro",
+      "description": "The iPhone 16 Pro is the latest flagship smartphone from Apple. It features a 6.3-inch Super Retina XDR display with a resolution of 2532x1170 pixels, and a refresh rate of 120Hz.",
+      "price": 899,
+      "thumbnail": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-16-pro-finish-select-202409-6-3inch_GEO_US_FMT_WHH?wid=1280&hei=492&fmt=p-jpg&qlt=80&.v=eUdsd0dIb3VUOXdtWkY0VFUwVE8vbEdkZHNlSjBQRklnaFB2d3I5MW94NHhsaFZBQ3Ira2kyRm5zQ1YwdHhkQzdXUFRJMDZFNW93MWh0MmJseHczZUNzRVdVYUZMK2pnb0pYa1BITFFSbEwxcjBVRyswWG14bEI4WVZBcUIybEZKVnUwUkNUSGFMcXF3ZmMvWnZaUmhn&traceId=1",
+      "quantity": 1
+    },
+    {
+      "id": 3,
+      "title": "Samsung S25",
+      "description": "Samsung Galaxy S25 is the latest flagship smartphone from Samsung. It features a 6.3-inch Super AMOLED display with a resolution of 2400x1080 pixels, and a refresh rate of 120Hz.",
+      "price": 1249,
+      "category": "smartphones",
+      "thumbnail": "https://image-us.samsung.com/us/smartphones/galaxy-s25/Gallery/PA1/PA1-01-Navy-1600x1200.jpg",
+      "quantity": 1
+    },
+    {
+      "id": 4,
+      "title": "Oppo FN5",
+      "description": "OPPO Find N5 is officially announced on April 2021.",
+      "price": 280,
+      "thumbnail": "https://www.oppo.com/content/dam/oppo/common/mkt/v2-2/oppo-find-n5-en/navigation/440-440-white.png",
+      "quantity": 1
+    },
+    {
+      "id": 5,
+      "title": "Huawei mate XT",
+      "description": "Huawei’s re-badged Mate XT New Edition was officially unveiled yesterday in Germany and now the device has made its way to the UK.",
+      "price": 499,
+      "thumbnail": "https://www.cambridgemechatronics.com/media/cache/f8/89/f889c8d59a92a5a1f24741d467ebc0b8.png",
+      "quantity": 1
+    },
+    {
+      "id": 6,
+      "title": "MacBook Pro",
+      "description": "MacBook Pro 2021 with mini-LED display may launch between September, November",
+      "price": 1749,
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSuRp2kmgjvrsVDg7H6D7ZjmkTJSAA5t3zTQ&s",
+      "quantity": 1
+    },
+    {
+      "id": 7,
+      "title": "Samsung Galaxy Book",
+      "description": "Samsung Galaxy Book S (2020) Laptop With Intel Lakefield Chip, 8GB of RAM Launched",
+      "price": 1499,
+      "thumbnail": "https://www.bhphotovideo.com/images/fb/samsung_np964qgk_kg1us_16_galaxy_book4_pro_1816366.jpg",
+      "quantity": 1
+    }
+  ]
+}

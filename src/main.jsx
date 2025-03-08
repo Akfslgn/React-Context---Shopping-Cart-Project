@@ -1,16 +1,12 @@
-import 'bootstrap/dist/css/bootstrap.min.css';
-import 'bootstrap';
-import './index.css';
-import { StrictMode } from 'react';
-import { createRoot } from 'react-dom/client';
-import { StoreProvider } from './store/StoreContext.jsx';
-import { router } from './router/routes.jsx';
-import { RouterProvider } from 'react-router';
+import React from 'react'
+import ReactDOM from 'react-dom/client'
+import App from './App.jsx'
+import './index.css'
+import ContextProvider from './Features/ContextProvider.jsx'
 
-createRoot(document.getElementById('root')).render(
-  <StrictMode>
-    <StoreProvider>
-      <RouterProvider router={router} />
-    </StoreProvider>
-  </StrictMode>
-);
+ReactDOM.createRoot(document.getElementById('root')).render(
+  <ContextProvider>
+    <App />
+  </ContextProvider>
+  ,
+)
